@@ -188,8 +188,8 @@ Reflection_Removal/
 ├── datasets/
 │
 ├── app.py
-├── train.py
-├── evaluate.py
+├── train.ipynb
+├── evaluate.ipynb
 ├── README.md
 ```
 
